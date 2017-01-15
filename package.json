@@ -6,10 +6,19 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nomura-toolate/study001.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nomura-toolate/study001/issues"
+  },
+  "homepage": "https://github.com/nomura-toolate/study001#readme",
   "dependencies": {
-    "express": "^4.10.2"
+    "express": "^4.10.2",
+    "socket.io": "^1.7.2"
   }
 }
